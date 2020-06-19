@@ -1,6 +1,8 @@
 # Stanford-CS234-Reinforcement-Learning-Winter-2019
 Stanford-CS234 Reinforcement Learning  Winter 2019
 
+http://onlinehub.stanford.edu/cs234
+
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
 
